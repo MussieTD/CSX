@@ -1,0 +1,16 @@
+﻿Build started 3/7/2016 4:28:33 PM.
+     1>Project "c:\Users\muste\OneDrive\documents\visual studio 2013\Projects\Testing .get and getline\Testing .get and getline.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "testing .get and getline.cpp"
+         testing .get and getline.cpp
+     1>c:\users\muste\onedrive\documents\visual studio 2013\projects\testing .get and getline\testing .get and getline.cpp(6): warning C4101: 'x' : unreferenced local variable
+     1>c:\users\muste\onedrive\documents\visual studio 2013\projects\testing .get and getline\testing .get and getline.cpp(7): warning C4101: 'arrays2' : unreferenced local variable
+     1>c:\users\muste\onedrive\documents\visual studio 2013\projects\testing .get and getline\testing .get and getline.cpp(7): warning C4101: 'arrays1' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\muste\onedrive\documents\visual studio 2013\Projects\Testing .get and getline\Debug\Testing .get and getline.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\muste\onedrive\documents\visual studio 2013\Projects\Testing .get and getline\Debug\Testing .get and getline.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\muste\onedrive\documents\visual studio 2013\Projects\Testing .get and getline\Debug\Testing .get and getline.lib" /MACHINE:X86 "Debug\testing .get and getline.obj"
+         Testing .get and getline.vcxproj -> c:\users\muste\onedrive\documents\visual studio 2013\Projects\Testing .get and getline\Debug\Testing .get and getline.exe
+     1>Done Building Project "c:\Users\muste\OneDrive\documents\visual studio 2013\Projects\Testing .get and getline\Testing .get and getline.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.97
