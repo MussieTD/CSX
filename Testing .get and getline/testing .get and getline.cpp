@@ -26,6 +26,9 @@ int main ()
 		cout << "\n\n name input as a char array using getline method";
 		cin.getline(arrays, 50); cin.ignore(80, '\n');
 		cout << arrays;
+
+
+		cout << "I can getline too!" << endl;
 	
 	cin.get();
 	return 0;
